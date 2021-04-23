@@ -1,7 +1,4 @@
 import numpy as np 
 
-def test(i):
-	if i == 3:
-		return True
-	else:
-		return False
+def test():
+	assert 1 == 1
