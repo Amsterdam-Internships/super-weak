@@ -5,5 +5,3 @@ def test(i):
 		return True
 	else:
 		return False
-
-test(2)
