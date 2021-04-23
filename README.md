@@ -9,8 +9,9 @@ Establish extensive list of external knowledge bases. Heuristics, classifiers, g
 
 knowledge base | source
 ---------------|-------
-Frog | link
-Polyglot | link
+Frog | [repo](https://github.com/proycon/python-frog)
+Polyglot | [pypi.org](https://pypi.org/project/polyglot/)
+
 
 ### Labelling functions
 Encode external knowledge bases from list established in previous section in Python. Utilize [skweak](https://github.com/NorskRegnesentral/skweak) package for this. 
