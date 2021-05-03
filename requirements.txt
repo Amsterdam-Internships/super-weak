@@ -88,6 +88,13 @@ smart-open==3.0.0
 spacy-legacy==3.0.5
     # via spacy
 spacy==3.0.6
+#spacy language models
+https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.0.0/nl_core_news_sm-3.0.0.tar.gz#egg=nl_core_news_sm
+
+https://github.com/explosion/spacy-models/releases/download/nl_core_news_md-3.0.0/nl_core_news_md-3.0.0.tar.gz#egg=nl_core_news_md
+
+https://github.com/explosion/spacy-models/releases/download/nl_core_news_lg-3.0.0/nl_core_news_lg-3.0.0.tar.gz#egg=nl_core_news_lg
+
     # via
     #   -r requirements.txt
     #   skweak
