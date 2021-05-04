@@ -1,6 +1,13 @@
 # super-weak
 MSc thesis William Bos. Considers the weak supervision of Dutch corpora for the purpose of creating more training data for fine-tuning PLMs on Dutch NER. 
 
+### How to use
+clone this repo... `git clone https://github.com/Amsterdam-Internships/super-weak/edit/main/README.md`
+install requirements `pip install -r requirements.txt` 
+open my nb in jupyter lab `jupyter-lab`
+
+important to do it in jupyter lab. jupyter notebook won't work properly
+
 ### TODO
 ![pipeline](https://user-images.githubusercontent.com/33165624/115394487-1a8c9100-a1e3-11eb-9e82-5a6b377a3395.png)
 
