@@ -3,7 +3,9 @@ MSc thesis William Bos. Considers the weak supervision of Dutch corpora for the 
 
 ### How to use
 clone this repo... `git clone https://github.com/Amsterdam-Internships/super-weak/edit/main/README.md`
+
 install requirements `pip install -r requirements.txt` 
+
 open my nb in jupyter lab `jupyter-lab`
 
 important to do it in jupyter lab. jupyter notebook won't work properly
