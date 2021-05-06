@@ -81,7 +81,7 @@ scipy==1.6.3
     #   scikit-learn
 six==1.15.0
     # via python-dateutil
-skweak==0.2.10
+skweak==0.2.11
     # via -r requirements.txt
 smart-open==3.0.0
     # via pathy
