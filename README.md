@@ -13,7 +13,7 @@ important to do it in jupyter lab. jupyter notebook won't work properly
 ### TODO
 ![pipeline](https://user-images.githubusercontent.com/33165624/115394487-1a8c9100-a1e3-11eb-9e82-5a6b377a3395.png)
 
-### External knowledge bases <-- currently here 
+### External knowledge bases
 Establish extensive list of external knowledge bases. Heuristics, classifiers, gazzeteers. 
 
 knowledge base | source
