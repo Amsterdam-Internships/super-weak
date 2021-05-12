@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# lison2020
+lison2020/
+
 # C extensions
 *.so
 

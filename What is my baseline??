@@ -6,4 +6,5 @@ What is my baseline??
 Benchmarking set:
 - CoNLL-2002 
 
-Will have to make an evaluation script and will also have to separate the texts from the CoNLL file as to make it Spacy-readable. 
+Will have to make an evaluation script and will also have to separate the texts from the CoNLL file as to make it Spacy-readable -> how? 
+- spacy.gold? 
