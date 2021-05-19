@@ -108,6 +108,8 @@ threadpoolctl==2.1.0
     # via scikit-learn
 tqdm==4.60.0
     # via spacy
+transformers==4.6.0
+	# manual add
 typer==0.3.2
     # via
     #   pathy
