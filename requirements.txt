@@ -24,6 +24,8 @@ cymem==2.0.5
     #   preshed
     #   spacy
     #   thinc
+datasets==1.6.2
+	# manual
 hmmlearn==0.2.5
     # via skweak
 idna==2.10
@@ -79,6 +81,10 @@ scipy==1.6.3
     # via
     #   hmmlearn
     #   scikit-learn
+sentencepie==0.1.95
+	# manual 
+seqeval==1.2.2
+	# manual 
 six==1.15.0
     # via python-dateutil
 skweak==0.2.11
