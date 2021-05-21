@@ -81,7 +81,7 @@ scipy==1.6.3
     # via
     #   hmmlearn
     #   scikit-learn
-sentencepie
+sentencepiece==0.1.95
 seqeval==1.2.2
 	# manual 
 six==1.15.0
