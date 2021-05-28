@@ -1,6 +1,6 @@
 import spacy
 from spacy.tokens import DocBin
-nlp = spacy.load("nl_core_news_lg")
+nlp = spacy.load("nl_core_news_md")
 
 def to_spacy(path: str) -> list:
 	"""
