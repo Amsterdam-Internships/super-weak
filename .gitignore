@@ -9,6 +9,9 @@ lison2020/
 # C extensions
 *.so
 
+#these are too big to push
+models/
+
 output/
 
 nos.train
