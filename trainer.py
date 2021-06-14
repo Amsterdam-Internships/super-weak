@@ -1,7 +1,7 @@
 import torch 
 import transformers
 from transformers import pipeline
-from transformers import load_dataset, load_metric
+from datasets import load_dataset, load_metric
 from transformers import XLMRobertaTokenizerFast
 from transformers import XLMRobertaForTokenClassification, TrainingArguments, Trainer
 from transformers import DataCollatorForTokenClassification
